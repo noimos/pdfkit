@@ -48,7 +48,7 @@
   },
   "dependencies": {
     "crypto-js": "^4.0.0",
-    "fontkit": "noimos/fontkit",
+    "fontkit": "https://github.com/noimos/fontkit.git",
     "linebreak": "^1.0.2",
     "png-js": "^1.0.0"
   },
